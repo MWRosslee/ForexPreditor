@@ -1,0 +1,2 @@
+# ForexPreditor
+Forex Pricing Projectsion
